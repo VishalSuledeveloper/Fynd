@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
     "mathematics": "^0.0.4",
     "node": "^18.13.0"
   }
