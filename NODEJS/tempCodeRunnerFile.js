@@ -1,0 +1,1 @@
+console.log(os1.arch());//gives you the os config type whether x64 or not?

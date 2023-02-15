@@ -1,0 +1,1 @@
+fruits.findIndex(findFruit('apple'));
