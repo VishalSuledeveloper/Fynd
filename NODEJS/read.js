@@ -13,12 +13,6 @@ function readUTF8File(filePath) {
 
 }
 
-
-
-
-
-
-
 readUTF8File("V:/MEVN/Fynd/NODEJS/demo.txt") //existing file
 // readUTF8File("./demo1.text") // non existing
 // readUTF8File("./demo.text") //file with missing characters. 
