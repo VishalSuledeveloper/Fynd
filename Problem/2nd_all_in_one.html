@@ -1,0 +1,18 @@
+<html>
+    <body>
+        <h2>Let & Var</h2>
+        <p id="test"></p>
+        <p id="demo"></p>
+        <script>
+           let x=100; //less scope
+           var y=10; //wide scope
+            {
+                x=2; //change is not allowed for 'let'
+                y=20; //change is allowed for 'var'
+            }
+            //x is 10 and y is 20
+            document.getElementById("test").innerHTML="value of y is" +y;
+            document.getElementById("demo").innerHTML="value of x is" +x;
+        </script>
+    </body>
+</html>
