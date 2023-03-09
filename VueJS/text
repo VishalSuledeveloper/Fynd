@@ -1,0 +1,9 @@
+https://cli.vuejs.org/guide/installation.html
+
+command to create vue  project
+
+vue create project_name
+
+to run the project 
+co to the inside project and run the
+command " npm run dev"
