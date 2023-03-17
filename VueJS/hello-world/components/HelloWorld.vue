@@ -1,8 +1,8 @@
 <script setup>
 defineProps({
   msg: {
-    type: String,
-    required: true,
+    type: String, // data type
+    required: true,// mandatory field
   },
 });
 </script>
