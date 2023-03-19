@@ -1,0 +1,20 @@
+https://cli.vuejs.org/guide/installation.html
+
+command to create vue  project
+
+vue create project_name
+
+to run the project 
+co to the inside project and run the
+command " npm run dev"
+
+
+
+vs link ecmascript link
+it used to internal dependacies any java script dependacies
+
+2 for any java script to enabal the dom it is mandaytory to manage the same the dom is managed by the vs link internaly
+the commaan framework used for are vue js node js and knowkout js
+
+
+properties in vue js =variables in node js= field type
