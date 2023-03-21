@@ -8,6 +8,8 @@ to run the project
 co to the inside project and run the
 command " npm run dev"
 
+pm run serve
+
 
 
 vs link ecmascript link
