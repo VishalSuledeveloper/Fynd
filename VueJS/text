@@ -20,3 +20,31 @@ the commaan framework used for are vue js node js and knowkout js
 
 
 properties in vue js =variables in node js= field type
+
+
+
+routing can be identified when there will be a unique response scenario(address will be diffrence/having url link will be visible)
+
+#router
+https://www.digitalocean.com/community/tutorials/java-web-services-tutorial
+
+success codes =200 put
+400=set
+
+
+
+collections
+show collection
+any of the fild
+applay any 3 filter 
+and see the result
+
+
+https://vuejs.org/guide/scaling-up/routing.html
+
+
+Client-side routing involves using JavaScript to dynamically update the content of a web page without requiring a full page reload. When a user clicks on a link, the JavaScript intercepts the click event and updates the URL without reloading the page. This allows for faster, smoother transitions between pages and a more seamless user experience. Popular frameworks for client-side routing include React Router and Vue Router.
+
+Server-side routing, on the other hand, involves handling the routing logic on the server side. When a user clicks on a link, the browser sends a request to the server, which then responds with the appropriate HTML content for the requested URL. This approach requires a full page reload and can result in slower load times and a less seamless user experience. However, server-side routing can be easier to implement and can be more search engine-friendly. Popular server-side frameworks for routing
+
+Both client-side and server-side routing have their advantages and disadvantages, and the choice of which approach to use depends on the specific requirements of the application. In general, client-side routing is better suited for single-page applications or applications with complex user interfaces, while server-side routing is better suited for applications that require better search engine optimization or have heavy server-side processing needs.
